@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-slider-image/static/css/main.1c883d82.chunk.css",
+    "main.js": "/react-slider-image/static/js/main.c7bc69b4.chunk.js",
+    "main.js.map": "/react-slider-image/static/js/main.c7bc69b4.chunk.js.map",
+    "runtime-main.js": "/react-slider-image/static/js/runtime-main.b8cac244.js",
+    "runtime-main.js.map": "/react-slider-image/static/js/runtime-main.b8cac244.js.map",
+    "static/js/2.de2220ec.chunk.js": "/react-slider-image/static/js/2.de2220ec.chunk.js",
+    "static/js/2.de2220ec.chunk.js.map": "/react-slider-image/static/js/2.de2220ec.chunk.js.map",
+    "index.html": "/react-slider-image/index.html",
+    "static/css/main.1c883d82.chunk.css.map": "/react-slider-image/static/css/main.1c883d82.chunk.css.map",
+    "static/js/2.de2220ec.chunk.js.LICENSE.txt": "/react-slider-image/static/js/2.de2220ec.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/react-slider-image/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/react-slider-image/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8cac244.js",
+    "static/js/2.de2220ec.chunk.js",
+    "static/css/main.1c883d82.chunk.css",
+    "static/js/main.c7bc69b4.chunk.js"
+  ]
+}
